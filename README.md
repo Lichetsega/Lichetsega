@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Lichetsega
-- 👀 I’m interested in coding challenges, interactive tutorials, and tools for learning programming concepts.
-- 🌱 I’m currently in mern stack development.
+- 👋 Hi, I’m Liche tsegaye
+-  I’m interested in coding challenges, interactive tutorials, and tools for learning programming concepts.
+- 🌱 I’m currently in mern stack web development and also learning python 
 - 💞️ I’m looking to collaborate on beginner-friendly open source projects, tutorials, or coding puzzles.
-- 📫 you can reach me through my email adress => lichetsega@gmail.com and also dm on my ig acc => @lichetsega
+- 📫 you can reach me through my email adress => lichetsega@gmail.com and also dm on my linkedin=> liche tsega
 - ⚡ I’ve built so many user friendly projects in python, mern, java, c++, html css and javascript , 
 
 <!---
